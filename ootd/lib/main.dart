@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:ootd/features/authentication/login.dart';
 
 void main() {
   runApp(const MyApp());
@@ -24,7 +25,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.cyan,
       ),
-      home: const MyHomePage(title: 'OOTD :3'),
+      home: const Login(),
     );
   }
 }
