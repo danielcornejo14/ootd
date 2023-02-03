@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546566422980",
+    "project_id": "ootd-dev-11691",
+    "storage_bucket": "ootd-dev-11691.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546566422980:android:57742f07378afd0635a491",
+        "android_client_info": {
+          "package_name": "com.example.ootd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546566422980-br4nilmnq20niu4qhlum798s8v0utid6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZJ9l6CGIwoXyV5KtkEJ3R5KiG3Mbu-I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546566422980-br4nilmnq20niu4qhlum798s8v0utid6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
