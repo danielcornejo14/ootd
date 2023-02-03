@@ -46,11 +46,31 @@ class DefaultFirebaseOptions {
     }
   }
 
+  static const FirebaseOptions web = FirebaseOptions(
+    apiKey: 'AIzaSyBGeicfLtw_c2hGB4cAOQXOOGHnhve4-f4',
+    appId: '1:546566422980:web:9eed05772229802235a491',
+    messagingSenderId: '546566422980',
+    projectId: 'ootd-dev-11691',
+    authDomain: 'ootd-dev-11691.firebaseapp.com',
+    storageBucket: 'ootd-dev-11691.appspot.com',
+    measurementId: 'G-LW3VYWGZ08',
+  );
+
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyAZJ9l6CGIwoXyV5KtkEJ3R5KiG3Mbu-I0',
     appId: '1:546566422980:android:57742f07378afd0635a491',
     messagingSenderId: '546566422980',
     projectId: 'ootd-dev-11691',
     storageBucket: 'ootd-dev-11691.appspot.com',
+  );
+
+  static const FirebaseOptions ios = FirebaseOptions(
+    apiKey: 'AIzaSyAlGv433ymA7e9HA_EE5kumpDmrNj0bFv8',
+    appId: '1:546566422980:ios:0a7d93a7596565e235a491',
+    messagingSenderId: '546566422980',
+    projectId: 'ootd-dev-11691',
+    storageBucket: 'ootd-dev-11691.appspot.com',
+    iosClientId: '546566422980-sht491qs9ovnqgkft5etat82o1f0m594.apps.googleusercontent.com',
+    iosBundleId: 'com.example.ootd',
   );
 }
